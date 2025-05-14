@@ -621,8 +621,9 @@ z-index: 1;
 #About .carosel_part .about_img{
     position: absolute;
     top: -93px;
-    left: 50%;
+    left: 45%;
     transform: translateX(-50%);
+    width: 147px;
 }
 /* ABOUT PART END */
 

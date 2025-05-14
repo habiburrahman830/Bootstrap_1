@@ -1,0 +1,51 @@
+@media (min-width: 1400px){  }
+@media (min-width: 1200px) and (max-width: 1399.98px) {  }
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+@media (min-width: 576px) and (max-width: 767.98px) { 
+       .main_menu{
+    background-color: greenyellow !important;
+}
+    #banner .banner_text p {
+	font-size: 16px;
+	width: 100%;
+}
+#banner .banner_text h1 {
+	font-size: 36px;
+	line-height: 60px;
+	width: 100%;
+}
+ }
+@media (max-width: 575.98px) { 
+    /* MENU PART START */
+    .main_menu .navbar-brand img{
+        width: 70px;
+    }
+    .navbar-toggler{
+        background-color: white !important;
+    }
+    .contact_us_btn button{
+        padding: 10px 24px !important;
+        margin-left: 85px;
+    }
+    .main_menu ul{
+        margin-top: 20px !important;
+    }
+    /* MENU PART END */
+
+    /* BANNER PART START  */
+
+    /* BANNER PART END  */
+
+    /* BANNER PART START  */
+    /* BANNER PART END  */
+
+    /* BANNER PART START  */
+    /* BANNER PART END  */
+
+    /* BANNER PART START  */
+    /* BANNER PART END  */
+
+    /* BANNER PART START  */
+    /* BANNER PART END  */
+ }
