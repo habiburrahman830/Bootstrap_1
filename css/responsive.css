@@ -31,6 +31,10 @@
     .main_menu ul{
         margin-top: 20px !important;
     }
+    .contact_us_btn {
+	display: flex;
+	justify-content: center;
+}
     /* MENU PART END */
 
     /* BANNER PART START  */
