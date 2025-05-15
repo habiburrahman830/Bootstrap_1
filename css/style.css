@@ -14,9 +14,9 @@ ul,li{
 h1,h2,h3,h4,h5,h6,p{
     line-height: 0.8;
 }
-.container{
+/* .container{
     width: 1170px;
-}
+} */
 /* COMMON CSS END*/
 
 
@@ -509,6 +509,9 @@ z-index: 1;
 #Right_Plan .items .items_img{
     margin: 26px 0 20px;
 }
+#Right_Plan .items .items_img img{
+    width: 100%;
+}
 #Right_Plan .items .dolar_text{
     display: flex;
     justify-content: center;
@@ -646,14 +649,15 @@ z-index: 1;
     letter-spacing: -2px;
     color: #030314;
     font-family: "Open Sans", sans-serif;
-    margin-left: 40px;
+    margin-left: 162px;
 }
 #may_also .may_also_full{
     display: flex;
     gap: 80px;
     margin-top: 64px;
-    margin-left: 40px;
+    /* margin-left: 40px; */
     z-index: 5;
+    justify-content: center;
 
 }
 #may_also .may_also_full ul{

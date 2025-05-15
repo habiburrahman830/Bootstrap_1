@@ -26,7 +26,6 @@
     }
     .contact_us_btn button{
         padding: 10px 24px !important;
-        margin-left: 85px;
     }
     .main_menu ul{
         margin-top: 20px !important;
@@ -38,7 +37,123 @@
     /* MENU PART END */
 
     /* BANNER PART START  */
+    #banner {
+	padding: 132px 0;
+}
+    #banner .banner_text p {
+	font-size: 16px;
+	font-weight: 300;
+	width: 100%;
+}
+#banner .banner_text h1 {
+	font-size: 27px;
+	line-height: 60px;
+	width: 100%;
+}
+#banner .banner_text .banner_btn {
+	display: flex;
+	gap: 20px;
+	flex-direction: column;
+	padding-top: 20px;
+}
+    /* BANNER PART END  */
 
+    /* COUNTER PART START  */
+    .counter_shap {
+	z-index: -1;
+}
+
+#counter .counter_items {
+	border-right: none;
+	margin-top: 30px;
+}
+
+#counter {
+	padding: 120px 0;
+}
+    /* COUNTER PART END  */
+
+
+
+
+    /* CHO0SE US PART START  */
+    
+#Choose_Us .chose_text_left h3 {
+font-size: 14px;
+width: 100%;
+
+}
+
+#Choose_Us .chose_text_left{
+
+	margin-left: 0px;
+
+}
+
+#Choose_Us .chose_text_left:hover{
+    padding: 0px;
+
+}
+#Choose_Us .choose_text_right {
+	margin-left: 0px;
+}
+#Choose_Us .choose_text_right h4 {
+	font-size: 39px;
+	text-align: center;
+}
+#Choose_Us .choose_text_right p {
+	width: 100%;
+	text-align: center;
+}
+#Choose_Us .choose_text_right button {
+	width: 100%;
+}
+#Choose_Us .choose_text_right {
+	margin-left: 0px;
+	margin-top: 70px;
+}
+    /* CHO0SE US PART END  */
+
+
+    /* DESIGN PART START  */
+#design .desin_What h4 {
+	text-align: center;
+}    
+
+#design .desin_What p {
+	width: 100%;
+	text-align: center;
+}
+
+#design .desin_What button {
+	width: 100%;
+}
+
+#design .items {
+	margin-top: 40px;
+}
+
+    /* DESIGN PART END  */
+
+    /* IMPACT PART START  */
+#impact .top_text p {
+	font-size: 16px;;
+	width: 100%;
+}
+#impact .analysis .anlysis_text h3 {
+	font-size: 18px;
+	width: 100%;
+}
+#impact .analysis .anlysis_text p {
+	font-size: 14px;
+	width: 100%;
+}
+    /* IMPACT PART END  */
+
+    /* BANNER PART START  */
+    /* BANNER PART END  */
+
+    /* BANNER PART START  */
     /* BANNER PART END  */
 
     /* BANNER PART START  */
